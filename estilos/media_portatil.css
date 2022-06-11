@@ -381,6 +381,15 @@ a {
     border-radius: 8px;
 }
 
+.contact__text__email {
+    text-align: center;
+    margin-top: -5px;
+    padding-bottom: 8%;
+    color: black;
+    margin-left: auto;
+    margin-right: auto;
+}
+
   .footer {
       background-color: black;
       padding: 30px;

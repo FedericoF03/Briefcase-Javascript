@@ -365,8 +365,10 @@ a {
 .contact__text__number {
     text-align: center;
     margin-top: -5px;
-    margin-bottom: 14%;
+    margin-bottom: 10%;
     color: black;
+    margin-left: auto;
+    margin-right: auto;
 }
 
   .contact__card__email {
@@ -379,6 +381,14 @@ a {
     flex-direction: column;
     box-shadow: 0px 0px 16px -8px white;
     border-radius: 8px;
+}
+
+.contact__text__email {
+    text-align: center;
+    margin-top: -5px;
+    padding-bottom: 8%;
+    color: black;
+    margin: auto;
 }
 
   .footer {
