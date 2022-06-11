@@ -407,7 +407,7 @@ color: #35B1C0;
 
   .contact__text__email {
     text-align: center;
-    margin-top: -5px;
+    margin-top: 10px;
     padding-bottom: 8%;
     color: black;
     overflow-x: scroll;
