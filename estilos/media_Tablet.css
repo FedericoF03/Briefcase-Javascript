@@ -335,6 +335,26 @@ a {
     margin: auto;
 }
 
+.reference__title {
+    color: #35B1C0;
+    text-align: center;
+}
+
+.reference__text {
+    text-align: center;
+}
+
+.reference__link {
+    text-align: center;
+}
+
+.reference--flex {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-top: 15%;
+}
+
 .contact__title {
     text-align: center;
     color: #35B1C0;
